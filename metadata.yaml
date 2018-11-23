@@ -1,0 +1,23 @@
+_repo: Slavery-in-History_58314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Gurowski, Adam G., count
+    alias: Gurowski, Adam G. de, count
+    birthdate: 1805
+    deathdate: 1866
+    gutenberg_agent_id: '33590'
+    url: http://www.gutenberg.org/2009/agents/33590
+description: ''
+gutenberg_issued: '2018-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Slavery in History
+url: http://www.gutenberg.org/ebooks/58314
